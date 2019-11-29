@@ -1,6 +1,3 @@
-Note: Please do comment if you find mistakes.
-Let me know.
-Because u got to let me know.
-Best of me.
-sd
-asd
+Disclaimer: The main purpose it to help all students to do great with their exams. This notes are purposed to BCA students. BCA stands for Bachelor of Computer Application. At first, I designed this notes for my purpose, then later I those why not provide it for everyone, easily accessible without having to worrying about document format. 
+
+Note: I do not guarentee or claim whether the answers provided here is accurate or not. But if you know something that seems out of order or wrong explaination, it would mean a lot if u let me know what's wrong.
