@@ -1,0 +1,1 @@
+console.log("JavaScrip idhar herea baba.")
