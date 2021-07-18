@@ -1,9 +1,26 @@
 /* Global Variable ho */
-:root {
+/* :root {
   --text-color: blue;
-}
+} */
 
 /* Local Variable-haru suru vayo */
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Monstserrat', sans-serif;
+}
+
+ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+}
 
 .navbar{
   height: 70px;
@@ -19,13 +36,13 @@
   height: 100%;
 }
 
-.summary {
+summary {
     background: #f2f2f2;
     cursor: pointer;
     padding: 15px;
   }
 
-.meter{
+meter{
     width: 300px;
     height: 20px;
 }
