@@ -22,10 +22,10 @@ a {
   text-decoration: none;
 }
 
-.navbar{
+.navbar {
   height: 70px;
   width: 100%;
-  background-color: black;
+  background: black;
   color: white;
 }
 
