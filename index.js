@@ -1,1 +1,1 @@
-console.log("JavaScript idhar herea baba.") 
+console.log("JavaScript idhar herea baba.");
